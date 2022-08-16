@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/jayp0521"><img src="https://github.com/jayp0521/jayp0521/blob/main/devcard.svg" width="400" alt="Jay Patel's Dev Card"/></a>
+
 <!--
 **jayp0521/jayp0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
