@@ -2,6 +2,8 @@
 
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayp0521&show_icons=true&theme=chartreuse-dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayp0521)](https://github.com/jayp0521/github-readme-stats)
+
 <a href="https://app.daily.dev/jayp0521"><img src="https://github.com/jayp0521/jayp0521/blob/main/devcard.svg" width="400" alt="Jay Patel's Dev Card"/></a>
 
 <!--
