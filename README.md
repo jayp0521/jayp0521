@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-<a href="https://github.com/jayp0521/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayp0521&show_icons=true&theme=chartreuse-dark&count_private=true" />
+<a href="https://github.com/jay-babu/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-babu&show_icons=true&theme=chartreuse-dark&count_private=true" />
 </a>
-<a href="https://github.com/jayp0521/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayp0521&hide=html&count_private=true" />
+<a href="https://github.com/jay-babu/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-babu&hide=html&count_private=true" />
 </a>
 
 
-<a href="https://app.daily.dev/jayp0521"><img src="https://github.com/jayp0521/jayp0521/blob/main/devcard.svg" width="400" alt="Jay Patel's Dev Card"/></a>
+<a href="https://app.daily.dev/jay-babu"><img src="https://github.com/jay-babu/jay-babu/blob/main/devcard.svg" width="400" alt="Jay Patel's Dev Card"/></a>
 
 <!--
-**jayp0521/jayp0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jay-babu/jay-babu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
