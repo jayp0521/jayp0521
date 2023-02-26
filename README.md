@@ -10,6 +10,9 @@
 
 <a href="https://app.daily.dev/jay-babu"><img src="https://github.com/jay-babu/jay-babu/blob/main/devcard.svg" width="400" alt="Jay Patel's Dev Card"/></a>
 
+## Quotes I love
+
+> From the Ashes comes the Phoenix 🐦‍🔥
 <!--
 **jay-babu/jay-babu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
